@@ -20,7 +20,7 @@ menu a{
 }
 
 menu a:hover{
-    color: #a0c5ff;
+    color: #64bf64;
 }
 
 #Opções {
@@ -64,5 +64,24 @@ menu img {
 
 #Play div img{
     height: 200px;
-   text-align: center;
+    text-align: center;
+}
+
+footer {
+    background-color: #077d07;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90px;
+    padding: 15px;
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: #64bf64;
 }
